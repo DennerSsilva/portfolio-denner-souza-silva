@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 Sobre
+### 👨‍💻 Sobre.
 
 Atualmente atuo na área da saúde como **Instrumentador Cirúrgico**, com especialidade em Ortopedia e Traumatologia, além de Medicina Esportiva.
 
