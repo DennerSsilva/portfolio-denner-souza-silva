@@ -80,7 +80,7 @@ O projeto faz parte da minha evolução acadêmica e contribui para o desenvolvi
 
 ---
 
-### 🏗 Estrutura do Repositório
+### 🏗 Estrutura do Repositório.
 
 Este repositório funciona como meu portfólio acadêmico e profissional, reunindo projetos desenvolvidos durante minha jornada de aprendizado em Ciência da Computação.
 
